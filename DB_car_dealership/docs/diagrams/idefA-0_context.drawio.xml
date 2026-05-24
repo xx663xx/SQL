@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="DmUh3d05Y_7TEvaoT8zT">
+    <mxGraphModel dx="2845" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-67" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="okv1ZPNPAC-gtxDGX1VV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-69" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.062;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="556" />
+              <mxPoint x="580" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-70" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="okv1ZPNPAC-gtxDGX1VV-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="580" />
+              <mxPoint x="600" y="580" />
+              <mxPoint x="600" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-71" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="okv1ZPNPAC-gtxDGX1VV-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="620" />
+              <mxPoint x="600" y="620" />
+              <mxPoint x="600" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-72" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.012;exitY=0.901;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="А-0 Работа автосалона" vertex="1">
+          <mxGeometry height="100" width="200" x="320" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="510" />
+              <mxPoint x="240" y="580" />
+            </Array>
+            <mxPoint x="200" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="690" />
+              <mxPoint x="240" y="620" />
+            </Array>
+            <mxPoint x="200" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.876;entryDx=0;entryDy=0;entryPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="780" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;УПРАВЛЕНИЕ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Законодательство;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Правила оформления сделок;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Прайс-листы и политика скидок;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Условия поставок;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Регламенты сервисного обслуживания.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="350" x="239" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="649.9999999999998" as="sourcePoint" />
+            <mxPoint x="510" y="649.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Информация о поступающих авто" vertex="1">
+          <mxGeometry height="30" width="265" x="-27" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Авто от поставщиков" vertex="1">
+          <mxGeometry height="30" width="130" x="75" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Обращения клиентов" vertex="1">
+          <mxGeometry height="30" width="130" x="75" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Заявки на тест-драйв" vertex="1">
+          <mxGeometry height="30" width="130" x="75" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Заявки на сервис" vertex="1">
+          <mxGeometry height="30" width="110" x="95" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Проданные автомобили" vertex="1">
+          <mxGeometry height="30" width="140" x="640" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Оформленные договоры продажи" vertex="1">
+          <mxGeometry height="30" width="200" x="640" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Проведенные тест-драйвы" vertex="1">
+          <mxGeometry height="30" width="160" x="640" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Выполненные сервисные работы" vertex="1">
+          <mxGeometry height="30" width="190" x="640" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отчеты" vertex="1">
+          <mxGeometry height="30" width="40" x="640" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;МЕХАНИЗМЫ&lt;/b&gt;&lt;br&gt;&lt;br&gt;Сотрудники автосалона;&lt;div&gt;База данных автосалона;&lt;/div&gt;&lt;div&gt;Поставщики;&lt;/div&gt;&lt;div&gt;Помещение салона и сервисная зона.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="351" x="238" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="okv1ZPNPAC-gtxDGX1VV-65" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YctHJ5qUY6YXoFDb9Po0-1" edge="1" parent="1" source="okv1ZPNPAC-gtxDGX1VV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.473;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="okv1ZPNPAC-gtxDGX1VV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

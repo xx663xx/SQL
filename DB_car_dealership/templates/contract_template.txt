@@ -1,0 +1,28 @@
+ДОГОВОР КУПЛИ-ПРОДАЖИ АВТОМОБИЛЯ N {contract_number}
+
+Дата оформления: {sale_date}
+
+Автосалон в лице сотрудника {employee_name} ({employee_position}) оформил продажу автомобиля покупателю {client_name}.
+
+1. Данные покупателя
+ФИО: {client_name}
+Телефон: {client_phone}
+Email: {client_email}
+
+2. Данные автомобиля
+ID автомобиля: {car_id}
+Марка и модель: {brand} {model}
+Год выпуска: {year}
+Пробег: {mileage_text} км
+Цвет: {color}
+Цена по каталогу: {car_price_text} руб.
+
+3. Условия сделки
+Цена продажи: {sale_price_text} руб.
+Статус оплаты: {payment_status}
+Способ оплаты: {payment_method}
+Дата оплаты: {payment_date}
+
+Подпись покупателя: ______________________ / {client_name}
+
+Подпись сотрудника: ______________________ / {employee_name}
